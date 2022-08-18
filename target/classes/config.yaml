@@ -1,0 +1,9 @@
+http:
+  port: "8081"
+  
+american:
+  host: "training4-american-ws-proxy-pkb.us-e2.cloudhub.io"  
+  port: "80"
+  protocol: "HTTP"
+  client_id: "88587ee1410a455f8834413f6f32e74b"
+  client_secret: "C0e1D4111C4a4c3A8EED255638dc9A6B"
